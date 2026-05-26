@@ -2,4 +2,4 @@
 
 # esta es mi primera pranctica en github y mio primer laboratorio
 
-# estoy trabajando en una rama nueva
+# estoy trabajando en una rama nuevaEsta es mi primera práctica con GitHub.
